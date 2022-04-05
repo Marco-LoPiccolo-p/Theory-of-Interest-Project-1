@@ -1,6 +1,6 @@
 ---
 title: Theory of Interest Project Assignment 1
-author: Marco LoPiccolo, Wyatt Deem, Kevin Klinkoski
+author: Marco LoPiccolo
 ---
 
 ```{r}
